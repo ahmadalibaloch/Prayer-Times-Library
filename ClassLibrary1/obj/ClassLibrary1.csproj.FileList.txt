@@ -1,0 +1,5 @@
+bin\Debug\Islam.dll
+bin\Debug\Islam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Islam.dll
+obj\Debug\Islam.pdb
